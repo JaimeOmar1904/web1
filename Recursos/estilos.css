@@ -1,0 +1,71 @@
+@font-face{
+
+    font-family: fuentejaime;
+    src: url(fuentes/Nightmare\ Station.otf)
+}
+
+.fondoimagen{
+    background-image: ;
+    width: 100%;
+    text-align: center;
+    background-size: 10rem;
+    padding: 25px;
+}
+
+body{
+    background-color: #e74c3c ;
+    font-family: sans-serif;
+    padding: 5em;
+}
+
+.fondoblanco{
+    background-color: white;
+}
+.fondoazul{
+    background-color: rgb(65, 172, 172);
+}
+.fondonegro{
+    background-color: black;
+}
+
+.texto1{
+    text-align: center;
+    font-size: 5em ;
+    color: darkgray;
+
+
+}
+.texto2{
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    font-family: fuentejaime;
+
+}
+.texto3{
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+
+}
+
+.texto4{
+    font-size: 2em;
+    color: white;
+    text-align: left;
+    font-family: fuentejaime;
+    padding-left: 10px;
+    
+
+}
+.imageEstilo{
+
+    width: 150px;
+    text-align: center;
+}
+
+.bordeblanco{
+    border: 20px solid white;
+    border-radius: 15px;
+}
