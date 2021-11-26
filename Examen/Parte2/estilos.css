@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(7, 138, 161);
+}
+.contenedor1{
+    background-color: rgb(7, 138, 161);
+    padding: 14% 10% 0% 10%;
+   
+}
+.contenedor2{
+    padding: 30% 0% 0% 0%;
+    
+}
+.fondomorado{
+    background-color: rgba(178, 14, 219, 0.637);
+}
+.fondoazul{
+    background-color: rgb(28, 168, 161);
+}
+.tabla1{
+    width: 100%;
+    
+}
+.borde1{
+    border: solid 3px white;
+}
+.borde2{
+    border: dashed 3px white;
+}
+.borde3{
+    border: dashed 3px red;
+}
+.center{
+    text-align: center;
+}
+.prueba{
+    background-color: tomato;
+}
+.padi{
+    padding: 15%;
+}
+.padi1{
+    padding: 2%;
+}
+.padi2{
+    padding: 1%;
+}
